@@ -6,7 +6,7 @@ public class App {
         
         System.out.println("Jeg elsker Johnny Cash");
         System.out.println("Dolly Parton er formidabel");
-        
+         System.out.println("Dolly Parto");  
         
     }
 }
